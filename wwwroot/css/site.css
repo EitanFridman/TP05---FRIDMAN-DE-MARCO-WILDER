@@ -18,5 +18,116 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #121212;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+}
+
+/* Index Page */
+.index-page .title {
+  font-size: 3em;
+  color: #00ffff;
+  text-shadow: 0 0 10px #00ffff;
+}
+
+.index-page .welcome-message {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.navigation .nav-link {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  background: #00ffff;
+  color: #121212;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+.navigation .nav-link:hover {
+  background: #00cccc;
+}
+
+/* Room Pages */
+.habitacion-page .room-title,
+.victoria-page .victory-title {
+  font-size: 2.5em;
+  color: #00ffff;
+  text-shadow: 0 0 10px #00ffff;
+  margin-bottom: 20px;
+}
+
+.room-content .room-description,
+.victory-content .victory-message {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.room-content .room-image {
+  max-width: 80%;
+  height: auto;
+  border: 2px solid #00ffff;
+  margin-bottom: 20px;
+}
+
+.room-content .room-form .room-input {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #00ffff;
+  background: #121212;
+  color: #e0e0e0;
+}
+
+.room-content .room-form .btn-validate {
+  padding: 10px 20px;
+  background: #00ffff;
+  color: #121212;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.room-content .room-form .btn-validate:hover {
+  background: #00cccc;
+}
+
+.hints .btn-hint {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background: #00ffff;
+  color: #121212;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.hints .btn-hint:hover {
+  background: #00cccc;
+}
+
+.error-message {
+  color: #ff0000;
+  margin-top: 10px;
 }

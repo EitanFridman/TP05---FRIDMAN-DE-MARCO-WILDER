@@ -24,58 +24,67 @@ public class HomeController : Controller
     }
 
     public IActionResult Tutorial()
-        {
-            return View();
-        }
-        public IActionResult Comenzar()
-        {
-            int estado = Escape.GetEstadoJuego();
-            return RedirectToAction("Habitacion", new { sala = estado });
-        }
-        public IActionResult Habitacion(int sala, string clave)
-        {
-            if (sala != Escape.GetEstadoJuego())
-            {
-                return RedirectToAction("Habitacion", new { sala = Escape.GetEstadoJuego() });
-            }
+    {
+        return View();
+    }
 
-            bool resultado = Escape.ResolverSala(sala, clave);
+    public IActionResult PersonasDetras()
+    {
+        return View();
+    }
 
-            if (resultado)
+    public IActionResult Comenzar()
+    {
+        int estado = Escape.GetEstadoJuego();
+        return RedirectToAction("Habitacion", new { sala = estado });
+    }
+
+    [HttpPost]
+    public IActionResult Habitacion(int sala, string clave)
+    {
+        if (sala != Escape.GetEstadoJuego())
+        {
+            return RedirectToAction("Habitacion", new { sala = Escape.GetEstadoJuego() });
+        }
+
+        bool resultado = Escape.ResolverSala(sala, clave);
+
+        if (resultado)
+        {
+            if (sala == 6)
             {
-                if (sala == 6)
-                {
-                    return RedirectToAction("Victoria");
-                }
-                else
-                {
-                    return RedirectToAction("Habitacion", new { sala = sala + 1 });
-                }
+                return RedirectToAction("Victoria");
             }
             else
             {
-                ViewBag.Error = "Clave incorrecta. Inténtalo nuevamente.";
-                return View($"Habitacion{sala}");
+                return RedirectToAction("Habitacion", new { sala = sala + 1 });
             }
         }
-        public IActionResult Habitacion(int sala)
+        else
         {
-            if (sala != Escape.GetEstadoJuego())
-            {
-                return RedirectToAction("Habitacion", new { sala = Escape.GetEstadoJuego() });
-            }
-
+            ViewBag.Error = "Clave incorrecta. Inténtalo nuevamente.";
             return View($"Habitacion{sala}");
         }
+    }
 
-        public IActionResult Victoria()
+    public IActionResult Habitacion(int sala)
+    {
+        if (sala != Escape.GetEstadoJuego())
         {
-            return View();
+            return RedirectToAction("Habitacion", new { sala = Escape.GetEstadoJuego() });
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+        return View($"Habitacion{sala}");
+    }
+
+    public IActionResult Victoria()
+    {
+        return View();
+    }
+
+    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+    public IActionResult Error()
+    {
+        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+    }
 }

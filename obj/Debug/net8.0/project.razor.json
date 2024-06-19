@@ -19384,11 +19384,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\Views\\Home\\Creditos.cshtml",
-      "TargetPath": "Views\\Home\\Creditos.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\Views\\Home\\Habitacion4.cshtml",
       "TargetPath": "Views\\Home\\Habitacion4.cshtml",
       "FileKind": "mvc"
@@ -19401,6 +19396,11 @@
     {
       "FilePath": "c:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\Views\\Home\\Habitacion1.cshtml",
       "TargetPath": "Views\\Home\\Habitacion1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\Views\\Home\\PersonasDetras.cshtml",
+      "TargetPath": "Views\\Home\\PersonasDetras.cshtml",
       "FileKind": "mvc"
     }
   ],

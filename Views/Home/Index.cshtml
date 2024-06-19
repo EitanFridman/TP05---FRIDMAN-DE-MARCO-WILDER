@@ -1,9 +1,23 @@
 ﻿@{
     ViewData["Title"] = "Inicio";
 }
-
-<h1>Sala de Escape</h1>
-<p>¡Bienvenido a la Sala de Escape!</p>
-<a href="@Url.Action("Tutorial")">Tutorial del juego</a>
-<a href="@Url.Action("Comenzar")">Iniciar Juego</a>
-<a href="@Url.Action("Creditos")">Créditos</a>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"] - Sala de Escape</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="index-page">
+    <div class="container">
+        <header>
+            <h1 class="title">Sala de Escape</h1>
+            <p class="welcome-message">¡Bienvenido a la Sala de Escape!</p>
+        </header>
+        <nav class="navigation">
+            <a class="nav-link" href="@Url.Action("Tutorial")">Tutorial del juego</a>
+            <a class="nav-link" href="@Url.Action("Comenzar")">Iniciar Juego</a>
+            <a class="nav-link" href="@Url.Action("PersonasDetras")">Personas Detrás</a>
+        </nav>
+    </div>
+</body>
+</html>

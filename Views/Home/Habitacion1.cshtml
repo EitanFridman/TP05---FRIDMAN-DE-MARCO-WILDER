@@ -1,18 +1,42 @@
 @{
     ViewData["Title"] = "Habitación 1"; // Cambiar el número de habitación según corresponda
 }
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"] - Sala de Escape</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="habitacion-page">
 
-<h1>La Oficina de Grondona</h1> <!-- Cambiar el título y contenido según la habitación -->
-<p>Encuentras el despacho del fallecido presidente de la AFA, Julio Grondona...</p>
-<img src="~/images/grondona.jpg" alt="Julio Grondona" />
-<form asp-action="Habitacion" method="post">
-    <input type="hidden" name="sala" value="1" /> <!-- Cambiar el número de sala según corresponda -->
-    <input type="text" name="clave" placeholder="Ingrese la clave" />
-    <button type="submit">Validar</button>
-</form>
-<button onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>
-<button onclick="alert('Pista 2: Revisa el cajón...')">Pista 2</button>
-@if(ViewBag.Error != null)
-{
-    <p style="color:red">@ViewBag.Error</p>
-}
+    <div class="container">
+    
+        <header>
+            <h1 class="room-title">La Oficina de Grondona</h1> <!-- Cambiar el título y contenido según la habitación -->
+        </header>
+
+        <section class="room-content">
+            <p class="room-description">Encuentras el despacho del fallecido presidente de la AFA, Julio Grondona...</p>
+            <img class="room-image" src="~/images/grondona.jpg" alt="Julio Grondona" />
+
+            <form class="room-form" asp-action="Habitacion" method="post">
+                <input type="hidden" name="sala" value="1" /> <!-- Cambiar el número de sala según corresponda -->
+                <input class="room-input" type="text" name="clave" placeholder="Ingrese la clave" />
+                <button class="btn-validate" type="submit">Validar</button>
+            </form>
+
+            <div class="hints">
+                <button class="btn-hint" onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>
+                <button class="btn-hint" onclick="alert('Pista 2: Revisa el cajón...')">Pista 2</button>
+            </div>
+
+            @if(ViewBag.Error != null)
+            {
+                <p class="error-message">@ViewBag.Error</p>
+            }
+        </section>
+
+    </div>
+    
+</body>
+</html>

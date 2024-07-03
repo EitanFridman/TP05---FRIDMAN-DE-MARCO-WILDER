@@ -1,12 +1,18 @@
 @{
-    ViewData["Title"] = "Habitación 1"; // Cambiar el número de habitación según corresponda
+    ViewData["Title"] = "Habitación 3"; // Cambiar el número de habitación según corresponda
 }
+
+<head>
+    <title>@ViewData["Title"] - Sala de Escape</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="icon" type="image/x-icon" href="/wwwroot/img/camisetaLogo.png">
+</head>
 
 <h1>La Oficina de Grondona</h1> <!-- Cambiar el título y contenido según la habitación -->
 <p>Encuentras el despacho del fallecido presidente de la AFA, Julio Grondona...</p>
 <img src="~/images/grondona.jpg" alt="Julio Grondona" />
 <form asp-action="Habitacion" method="post">
-    <input type="hidden" name="sala" value="1" /> <!-- Cambiar el número de sala según corresponda -->
+    <input type="hidden" name="sala" value="3" /> <!-- Cambiar el número de sala según corresponda -->
     <input type="text" name="clave" placeholder="Ingrese la clave" />
     <button type="submit">Validar</button>
 </form>

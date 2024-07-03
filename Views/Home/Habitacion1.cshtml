@@ -6,6 +6,7 @@
 <head>
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="icon" type="image/x-icon" href="/wwwroot/img/camisetaLogo.png">
 </head>
 <body class="habitacion-page">
 
@@ -28,6 +29,10 @@
             <div class="hints">
                 <button class="btn-hint" onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>
                 <button class="btn-hint" onclick="alert('Pista 2: Revisa el cajón...')">Pista 2</button>
+            </div>
+
+            <div>
+                <button class="EstadoJuego" onclick="alert('esta en el nivel ' + @ViewBag.estadoJuego) " > Estado del juego</button>
             </div>
 
             @if(ViewBag.Error != null)

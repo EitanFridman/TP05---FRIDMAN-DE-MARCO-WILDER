@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Zuw5LcK1+LwQ9ILKYYEq9DIm/RgNafoTHQ6+d0QQJ7A=",
+  "Hash": "7tvR7UhIiL7Zt3E3oUKcdfDySkE+VnWS1CXX1PYXx0s=",
   "Source": "TP05---FRIDMAN-DE-MARCO-WILDER",
   "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
   "Mode": "Default",
@@ -74,12 +74,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\camisetaLogo.png",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "img/camisetaLogo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,7 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\img\\camisetaLogo.png"
     },
     {
       "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\js\\site.js",

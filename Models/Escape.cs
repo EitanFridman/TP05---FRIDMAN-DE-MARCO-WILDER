@@ -1,15 +1,15 @@
 public static class Escape
 {
-    private static string[] incognitasSalas = { "1979", "75", "2014", "2018", "50", "2021" };
+    private static string[] incognitasSalas = { "1979", "38-38", "2014", "2018", "50", "2021" };
     private static int estadoJuego = 1;
 
     private static void InicializarJuego()
     {
-        incognitasSalas = new string[] { "1979", "75", "2014", "2018", "50", "2021" };
+        incognitasSalas = new string[] { "1979", "38-38", "2014", "2018", "50", "2021" };
         estadoJuego = 1;
     }
 
-    public static int GetEstadoJuego()
+    public static int GetEstadoJuego() 
     {
         return estadoJuego;
     }

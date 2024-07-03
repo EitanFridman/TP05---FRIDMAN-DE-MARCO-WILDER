@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\img\\camisetaLogo.png"
     },
     {
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\sala2.jpg",
+      "PackagePath": "staticwebassets\\img\\sala2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\sala3.jpg",
+      "PackagePath": "staticwebassets\\img\\sala3.jpg"
+    },
+    {
       "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

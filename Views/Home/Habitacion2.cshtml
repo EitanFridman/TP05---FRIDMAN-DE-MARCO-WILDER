@@ -5,38 +5,28 @@
 <head>
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="icon" type="image/x-icon" href="/wwwroot/img/camisetaLogo.png">
+    <link rel="icon" type="image/x-icon" href="/img/camisetaLogo.png">
 </head>
+
+<body class="room-2">
 
     <h1>La Sala de Votaciones</h1> <!-- Cambiar el título y contenido según la habitación -->
     <p>Estas en la sala de votaciones y arriba de una urna te encontras con esta imagen</p>
-    <pre>En la sede del fútbol argentino,
-    donde se decide el destino,
-    las voces se alzan, sin desmayo,
-    en busca de un acuerdo exacto.
+    
+    <img class="room-image" src="/img/sala2.jpg" alt="sala 2"/>
 
-    Un debate tenso, sin igual,
-    cada voto cuenta, sin final,
-    se contaron uno a uno, con ahínco,
-    hasta que el resultado se hizo distintivo.
-
-    Dos bandos firmes, sin romper,
-    ninguno cede, ninguno se ve vencer,
-    en el silencio de la decisión,
-    resuena el eco de la indecisión.
-
-    Un empate insólito, un hecho singular,
-    ¿qué rumbo tomará este votar?
-    En la historia de la AFA se inscribe,
-    un momento de equilibrio, donde todo vive.</pre>
     <form asp-action="Habitacion" method="post">
         <input type="hidden" name="sala" value="2" /> <!-- Cambiar el número de sala según corresponda -->
         <input type="text" name="clave" placeholder="Ingrese la clave" />
         <button type="submit">Validar</button>
     </form>
+
     <button onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>
     <button onclick="alert('Pista 2: Revisa el cajón...')">Pista 2</button>
+
     @if(ViewBag.Error != null)
     {
         <p style="color:red">@ViewBag.Error</p>
     }
+
+</body>

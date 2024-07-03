@@ -80,12 +80,24 @@ body {
   margin-bottom: 20px;
 }
 
-.room-content .room-image {
-  max-width: 80%;
-  height: auto;
-  border: 2px solid #00ffff;
-  margin-bottom: 20px;
+.room-2 .room-image{
+  width: 395px;
+  height: 561px;
 }
+
+/*-----Room 3-----*/
+
+.room-3 .room-image{
+  width: 85%;
+}
+
+.min{
+  display: flex;
+  justify-content: right;
+  margin: 0;
+  background-color: #ff0000;
+}
+
 
 .room-content .room-form .room-input {
   width: 80%;

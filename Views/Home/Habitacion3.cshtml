@@ -1,24 +1,24 @@
 @{
-    ViewData["Title"] = "Habitación 3"; // Cambiar el número de habitación según corresponda
+    ViewData["Title"] = "Habitación 3"; 
 }
 
 <head>
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="icon" type="image/x-icon" href="/wwwroot/img/camisetaLogo.png">
+    <link rel="icon" type="image/x-icon" href="/wwwroot/img/camisetaLogo.ico">
 </head>
 
 <body class="room-3">
 
-    <h1>La Oficina de Grondona</h1> <!-- Cambiar el título y contenido según la habitación -->
+    <h1>La Oficina de Grondona</h1> 
     <p>Encuentras el despacho del fallecido presidente de la AFA, Julio Grondona...</p>
 
     <img class="room-image" src="/img/sala3.jpg" alt="sala 3" />
 
     <form asp-action="Habitacion" method="post">
-        <input type="hidden" name="sala" value="3" /> <!-- Cambiar el número de sala según corresponda -->
+        <input type="hidden" name="sala" value="3" /> 
         <input type="text" name="clave" placeholder="Ingrese la clave" />
-        <button type="submit">Validar</button>
+        <button type="submit">Validar</button> 
     </form>
 
     <button onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>

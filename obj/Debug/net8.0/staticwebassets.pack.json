@@ -9,16 +9,40 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\camisetaLogo.png",
-      "PackagePath": "staticwebassets\\img\\camisetaLogo.png"
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\38-38.webp",
+      "PackagePath": "staticwebassets\\img\\38-38.webp"
     },
     {
-      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\sala2.jpg",
-      "PackagePath": "staticwebassets\\img\\sala2.jpg"
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\Victoria.webp",
+      "PackagePath": "staticwebassets\\img\\Victoria.webp"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\farre.webp",
+      "PackagePath": "staticwebassets\\img\\farre.webp"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\fondo.webp",
+      "PackagePath": "staticwebassets\\img\\fondo.webp"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\grondona.webp",
+      "PackagePath": "staticwebassets\\img\\grondona.webp"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\logoAfa.ico",
+      "PackagePath": "staticwebassets\\img\\logoAfa.ico"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\sala2.png",
+      "PackagePath": "staticwebassets\\img\\sala2.png"
     },
     {
       "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\sala3.jpg",
       "PackagePath": "staticwebassets\\img\\sala3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\y va el tercero.webp",
+      "PackagePath": "staticwebassets\\img\\y va el tercero.webp"
     },
     {
       "Id": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\js\\site.js",

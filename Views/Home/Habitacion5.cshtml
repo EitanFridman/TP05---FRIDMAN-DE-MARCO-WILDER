@@ -1,19 +1,19 @@
 @{
-    ViewData["Title"] = "Habitación 4";
+    ViewData["Title"] = "Habitación 5"; 
 }
 
 
 <head>
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="icon" type="image/x-icon" href="/wwwroot/img/camisetaLogo.png">
+    <link rel="icon" type="image/x-icon" href="/img/logoAfa.ico">
 </head>
 
-<h1>El que no salta </h1> 
+<h1>La Oficina de Grondona</h1> 
 <p>Encuentras el despacho del fallecido presidente de la AFA, Julio Grondona...</p>
 <img src="~/images/grondona.jpg" alt="Julio Grondona" />
 <form asp-action="Habitacion" method="post">
-    <input type="hidden" name="sala" value="4" /> 
+    <input type="hidden" name="sala" value="5" /> 
     <input type="text" name="clave" placeholder="Ingrese la clave" />
     <button type="submit">Validar</button>
 </form>

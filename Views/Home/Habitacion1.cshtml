@@ -1,34 +1,39 @@
 @{
-    ViewData["Title"] = "Habitación 1"; // Cambiar el número de habitación según corresponda
+    ViewData["Title"] = "Habitación 1";
 }
 <!DOCTYPE html>
 <html>
 <head>
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="icon" type="image/x-icon" href="/wwwroot/img/camisetaLogo.png">
+    <link rel="icon" type="image/x-icon" href="/img/logoAfa.ico">
 </head>
 <body class="habitacion-page">
 
     <div class="container">
     
         <header>
-            <h1 class="room-title">La Oficina de Grondona</h1> <!-- Cambiar el título y contenido según la habitación -->
+            <h1 class="room-title">La Oficina de Grondona</h1> 
         </header>
 
         <section class="room-content">
-            <p class="room-description">Encuentras el despacho del fallecido presidente de la AFA, Julio Grondona...</p>
-            <img class="room-image" src="~/images/grondona.jpg" alt="Julio Grondona" />
+            <p class="room-description">Ingresas y te encuentras papeles los cuales tratan de pagos extras a árbitros por arbitrar a favor de Independiente. También a Independiente les ingresaban 20 millones de dólares al año.
+
+            <br>
+            <br>
+
+            <b>Desafío:</b> La puerta de salida de la oficina se bloquea. Mientras estás husmeando por la sala, un guardia de seguridad quiere entrar a la habitación. Ves otra puerta con una clave de seguridad. Como no tienes otra salida, intentas ir por allí. Encuentras una nota en su escritorio la cual dice que para desbloquearla debes ingresar el año el cual Independiente ganó su libertadores mientras grondona era presidente de la AFA. Tienes un minuto y medio para ingresar allí, sino te atrapa el guardia</p>
+            <img class="room-image" src="/img/grondona.webp" alt="Julio Grondona" />
 
             <form class="room-form" asp-action="Habitacion" method="post">
-                <input type="hidden" name="sala" value="1" /> <!-- Cambiar el número de sala según corresponda -->
+                <input type="hidden" name="sala" value="1" />
                 <input class="room-input" type="text" name="clave" placeholder="Ingrese la clave" />
                 <button class="btn-validate" type="submit">Validar</button>
             </form>
 
             <div class="hints">
-                <button class="btn-hint" onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>
-                <button class="btn-hint" onclick="alert('Pista 2: Revisa el cajón...')">Pista 2</button>
+                <button class="btn-hint" onclick="alert('Pista 1: Los números del año sumados dan como resultado 22')">Pista 1</button>
+                <button class="btn-hint" onclick="alert('Pista 2: Grondona asumió en 1979')">Pista 2</button>
             </div>
 
             <div>

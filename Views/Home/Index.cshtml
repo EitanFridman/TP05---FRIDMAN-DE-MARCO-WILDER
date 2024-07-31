@@ -2,6 +2,7 @@
     ViewData["Title"] = "Inicio";
     var indexUrl = Url.Action("Index", "Home");
     var comenzarUrl = Url.Action("Comenzar");
+    var reiniciarUrl = Url.Action("Reiniciar");
 }
 <!DOCTYPE html>
 <html>
@@ -12,6 +13,7 @@
     <script>
         const indexUrl = '@indexUrl';
         const comenzarUrl = '@comenzarUrl';
+        const reiniciarUrl = '@reiniciarUrl';
     </script>
     <script src="~/js/cronometro.js"></script>
     <script src="~/js/lluvia.js"></script>
@@ -26,6 +28,7 @@
             <a class="nav-link" href="@Url.Action("Tutorial")">Tutorial del juego</a>
             <a class="nav-link" href="javascript:void(0);" onclick="iniciarJuego(comenzarUrl)">Iniciar Juego</a>
             <a class="nav-link" href="@Url.Action("PersonasDetras")">Personas Detrás</a>
+            <a class="nav-link" href="javascript:void(0);" onclick="reiniciarJuego()">Reiniciar cronometro</a> 
         </nav>
 
         <!-- Mostrar el cronómetro en el índice -->

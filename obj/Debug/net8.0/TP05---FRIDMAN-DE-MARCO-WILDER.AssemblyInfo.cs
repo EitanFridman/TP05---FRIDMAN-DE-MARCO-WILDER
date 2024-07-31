@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP05---FRIDMAN-DE-MARCO-WILDER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e654601280182f3d53555be7b4506d6a72a47ded")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d47b0f101b4c5873c5af0e2fad254f90f32e6380")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP05---FRIDMAN-DE-MARCO-WILDER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP05---FRIDMAN-DE-MARCO-WILDER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

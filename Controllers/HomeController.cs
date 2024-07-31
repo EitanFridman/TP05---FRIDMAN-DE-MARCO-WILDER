@@ -35,11 +35,17 @@ namespace TP05___FRIDMAN_DE_MARCO_WILDER.Controllers
 
         public IActionResult Comenzar()
         {
+            Escape.InicializarJuego();
             int estado = Escape.GetEstadoJuego();
-            // Aquí puedes reiniciar el cronómetro si es necesario
-            // Por ejemplo, puedes guardar en el ViewBag un indicador para reiniciar el cronómetro en la vista
             ViewBag.ReiniciarCronometro = true;
             return RedirectToAction("Habitacion", new { sala = estado });
+        }
+
+        public IActionResult Reiniciar()
+        {
+            Escape.InicializarJuego();
+            ViewBag.EstadoJuego = 1; // Reiniciar el estado del juego a la sala 1
+            return RedirectToAction("Index"); // Redirigir al inicio
         }
 
         [HttpPost]

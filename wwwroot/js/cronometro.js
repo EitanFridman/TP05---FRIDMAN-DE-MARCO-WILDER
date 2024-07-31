@@ -48,3 +48,9 @@ document.addEventListener('DOMContentLoaded', function () {
         activarCronometro();
     }
 });
+
+function reiniciarJuego() {
+    localStorage.setItem('tiempoRestante', 10 * 60);
+    localStorage.setItem('juegoIniciado', 'false');
+    window.location.href = reiniciarUrl;
+}

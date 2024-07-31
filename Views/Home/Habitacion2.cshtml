@@ -27,7 +27,7 @@
             <img class="room-image" src="/img/sala2.png" alt="Julio Grondona" />
             <form class="room-form" asp-action="Habitacion" method="post">
                 <input type="hidden" name="sala" value="2" />
-                <input class="room-input" type="text" name="clave" placeholder="Ingrese la clave" />
+                <input class="room-input" type="text" name="clave" placeholder="Ingrese la clave"  required  autocomplete="off"/>
                 <button class="btn-validate" type="submit">Validar</button>
             </form>
             <div class="hints">

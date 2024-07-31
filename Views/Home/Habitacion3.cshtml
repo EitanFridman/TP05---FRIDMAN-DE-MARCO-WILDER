@@ -15,6 +15,12 @@
     </script>
 </head>
 <body class="habitacion-page">
+
+    <button class="back-button" onclick="window.location.href='@Url.Action("Index", "Home")'">
+        <img src="/img/flecha.svg" alt="Flecha" />
+        <span>Volver al menú principal</span>
+    </button>
+    
     @Html.Partial("_Cronometro")
     <div class="container">
         <header>

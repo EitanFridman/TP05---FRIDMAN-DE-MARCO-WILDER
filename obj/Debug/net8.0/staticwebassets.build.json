@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jbez+1eLX1blEcwMfDaYC8Pd6nQhC87NKy7KWADxGwY=",
+  "Hash": "etJ6h9oa1BUPt20hrKwc009WpiqW0hBPLaxQYmeAbU4=",
   "Source": "TP05---FRIDMAN-DE-MARCO-WILDER",
   "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot",
       "Source": "TP05---FRIDMAN-DE-MARCO-WILDER",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TP05---FRIDMAN-DE-MARCO-WILDER.styles.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TP05---FRIDMAN-DE-MARCO-WILDER.styles.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "TP05---FRIDMAN-DE-MARCO-WILDER.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TP05---FRIDMAN-DE-MARCO-WILDER.styles.css"
+      "OriginalItemSpec": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TP05---FRIDMAN-DE-MARCO-WILDER.styles.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TP05---FRIDMAN-DE-MARCO-WILDER.bundle.scp.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TP05---FRIDMAN-DE-MARCO-WILDER.bundle.scp.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "TP05---FRIDMAN-DE-MARCO-WILDER.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TP05---FRIDMAN-DE-MARCO-WILDER.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TP05---FRIDMAN-DE-MARCO-WILDER.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\css\\site.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\38-38.webp",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\38-38.webp",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "img/38-38.webp",
       "AssetKind": "All",
@@ -93,10 +93,105 @@
       "OriginalItemSpec": "wwwroot\\img\\38-38.webp"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\farre.webp",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\agus.png",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/agus.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\agus.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\ball.png",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/ball.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ball.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\cloud.svg",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/cloud.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cloud.svg"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\eitu.png",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/eitu.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\eitu.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\empleadoLimpieza.png",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/empleadoLimpieza.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\empleadoLimpieza.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\farre.webp",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "img/farre.webp",
       "AssetKind": "All",
@@ -112,10 +207,29 @@
       "OriginalItemSpec": "wwwroot\\img\\farre.webp"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\fondo.webp",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\flecha.svg",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/flecha.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\flecha.svg"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\fondo.webp",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "img/fondo.webp",
       "AssetKind": "All",
@@ -131,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fondo.webp"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\grondona.webp",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\grondona.webp",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "img/grondona.webp",
       "AssetKind": "All",
@@ -150,10 +264,86 @@
       "OriginalItemSpec": "wwwroot\\img\\grondona.webp"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\logoAfa.ico",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\img1.png",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/img1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\img1.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\img2.png",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/img2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\img2.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\img3.png",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/img3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\img3.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\img5.png",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/img5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\img5.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\logoAfa.ico",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "img/logoAfa.ico",
       "AssetKind": "All",
@@ -169,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logoAfa.ico"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\sala2.png",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\sala2.png",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "img/sala2.png",
       "AssetKind": "All",
@@ -188,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sala2.png"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\sala3.jpg",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\sala3.jpg",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "img/sala3.jpg",
       "AssetKind": "All",
@@ -207,10 +397,29 @@
       "OriginalItemSpec": "wwwroot\\img\\sala3.jpg"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\Victoria.webp",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\shield.png",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/shield.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\shield.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\Victoria.webp",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "img/Victoria.webp",
       "AssetKind": "All",
@@ -226,10 +435,29 @@
       "OriginalItemSpec": "wwwroot\\img\\Victoria.webp"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\y va el tercero.webp",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\wilder.png",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "img/wilder.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\wilder.png"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\img\\y va el tercero.webp",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "img/y va el tercero.webp",
       "AssetKind": "All",
@@ -245,10 +473,48 @@
       "OriginalItemSpec": "wwwroot\\img\\y va el tercero.webp"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\js\\cronometro.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "js/cronometro.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\cronometro.js"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\js\\lluvia.js",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
+      "RelativePath": "js/lluvia.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\lluvia.js"
+    },
+    {
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\js\\site.js",
+      "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -264,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -283,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -302,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -321,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -340,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -359,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -378,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -397,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -416,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -435,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -454,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -473,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -492,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -511,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -587,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -606,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -625,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -644,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -663,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -739,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -758,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -777,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -796,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -815,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -834,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -853,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -872,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -891,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -910,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -929,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -948,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -967,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -986,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1005,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1024,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1043,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1062,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1081,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1100,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1119,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1138,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1157,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1176,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1195,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1214,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1233,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1252,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1271,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1290,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1309,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1328,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP05---FRIDMAN-DE-MARCO-WILDER",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48242472\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48178322\\Downloads\\TP05---FRIDMAN-DE-MARCO-WILDER\\TP05---FRIDMAN-DE-MARCO-WILDER\\wwwroot\\",
       "BasePath": "_content/TP05---FRIDMAN-DE-MARCO-WILDER",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

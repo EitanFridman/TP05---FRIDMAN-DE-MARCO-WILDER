@@ -1,25 +1,57 @@
 @{
-    ViewData["Title"] = "Habitación 5"; 
+    ViewData["Title"] = "Habitación 5";
 }
-
-
+<!DOCTYPE html>
+<html>
 <head>
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
     <link rel="icon" type="image/x-icon" href="/img/logoAfa.ico">
+    <script src="~/js/cronometro.js"></script>
+    <script>
+        // Define a global variable for the redirect URL
+        var urlMenuPrincipal = '@Url.Action("Index", "Home")';
+    </script>
 </head>
-
-<h1>La Oficina de Grondona</h1> 
-<p>Encuentras el despacho del fallecido presidente de la AFA, Julio Grondona...</p>
-<img src="~/images/grondona.jpg" alt="Julio Grondona" />
-<form asp-action="Habitacion" method="post">
-    <input type="hidden" name="sala" value="5" /> 
-    <input type="text" name="clave" placeholder="Ingrese la clave" />
-    <button type="submit">Validar</button>
-</form>
-<button onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>
-<button onclick="alert('Pista 2: Revisa el cajón...')">Pista 2</button>
-@if(ViewBag.Error != null)
-{
-    <p style="color:red">@ViewBag.Error</p>
-}
+<body class="habitacion-page">
+    @Html.Partial("_Cronometro")
+    <div class="container">
+        <header>
+            <h1 class="room-title">Ascenso de Barracas Central</h1>
+        </header>
+        <section class="room-content">
+            <p class="room-description">
+                Ingresas a una oficina donde encuentras documentos y recortes de noticias sobre el ascenso de Barracas Central. Los documentos sugieren un posible favoritismo y la intervención de Chiqui Tapia en el proceso. También hay fotos del equipo, destacando la presencia de su hijo.
+            </p>
+            <p class="challenge-description">
+                <b>Desafío:</b> Mientras revisas los documentos, entra una persona de limpieza usando una camiseta de Barracas Central. Te pones a charlar con esta persona sobre Barracas y durante la conversación menciona que Chiqui Tapia ha sido crucial en el ascenso del equipo.
+                <br><br>
+                Le mencionas que te gusta la camiseta y le preguntas a la persona de qué talle es la camiseta a ver si esa te quedaría, y amablemente te deja revisar la etiqueta de la misma.
+                <br><br>
+                Te das cuenta de que la camiseta es justo el mismo talle que vos y ves frases raras aludiendo al escándalo de Tapia con el ascenso de Barracas.
+                <br><br>
+                Empiezas a sospechar del empleado de limpieza. Piensas que te puede delatar por lo que descubriste. Para no seguir metiéndote en problemas, quieres escapar rápido y se te ocurre disfrazarte de empleado de limpieza y escapar por la puerta principal ya que todos ellos llevan de uniforme la camiseta de Barracas.
+                <br><br>
+                Así que, derribas al de limpieza, te pones su camiseta, te llevas sus elementos de trabajo y te diriges a la puerta principal. Ya en la puerta, cuando te piden la clave para salir, recuerdas que mientras leías la etiqueta estaban las iniciales C.T. y la frase "Ayudó a su equipo a subir".
+            </p>
+            <img class="room-image" src="/img/empleadoLimpieza.png" alt="Empleado de Limpieza" />
+            <form class="room-form" asp-action="Habitacion" method="post">
+                <input type="hidden" name="sala" value="5" />
+                <input class="room-input" type="text" name="clave" placeholder="Ingrese la clave" />
+                <button class="btn-validate" type="submit">Validar</button>
+            </form>
+            <div class="hints">
+                <button class="btn-hint" onclick="alert('Pista 1: En la etiqueta, otra cosa que decía era: |Es padre de un jugador en el equipo.|')">Pista 1</button>
+                <button class="btn-hint" onclick="alert('Pista 2: Las iniciales de una persona clave están en la etiqueta.')">Pista 2</button>
+            </div>
+            <div>
+                <button class="EstadoJuego" onclick="alert('Estás en el nivel ' + @ViewBag.estadoJuego)">Estado del juego</button>
+            </div>
+            @if(ViewBag.Error != null)
+            {
+                <p class="error-message">@ViewBag.Error</p>
+            }
+        </section>
+    </div>
+</body>
+</html>

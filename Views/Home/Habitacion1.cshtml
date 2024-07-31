@@ -7,46 +7,45 @@
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
     <link rel="icon" type="image/x-icon" href="/img/logoAfa.ico">
+    <script src="~/js/cronometro.js"></script>
+    <script>
+        // Define a global variable for the redirect URL
+        var urlMenuPrincipal = '@Url.Action("Index", "Home")';
+    </script>
 </head>
 <body class="habitacion-page">
-
     <div class="container">
-    
+        @Html.Partial("_Cronometro")
         <header>
-            <h1 class="room-title">La Oficina de Grondona</h1> 
+            <h1 class="room-title">La Oficina de Grondona</h1>
         </header>
-
         <section class="room-content">
-            <p class="room-description">Ingresas y te encuentras papeles los cuales tratan de pagos extras a árbitros por arbitrar a favor de Independiente. También a Independiente les ingresaban 20 millones de dólares al año.
+            <p class="room-description">Ingresas y te encuentras papeles los cuales tratan de pagos extras a árbitros por arbitrar a favor de Independiente e ingresos extras al club por más de 20 millones de dólares al año desde la asución de Grondona en <b>1979</b></p>
+            <p class="challenge-description">
+                <b>Desafío:</b> La puerta de salida de la oficina se bloquea. Mientras estás husmeando por la sala, un guardia de seguridad quiere entrar a la habitación. Ves otra puerta con una clave de seguridad. Como no tienes otra salida, intentas ir por allí. 
+                
+                <br>
 
-            <br>
-            <br>
-
-            <b>Desafío:</b> La puerta de salida de la oficina se bloquea. Mientras estás husmeando por la sala, un guardia de seguridad quiere entrar a la habitación. Ves otra puerta con una clave de seguridad. Como no tienes otra salida, intentas ir por allí. Encuentras una nota en su escritorio la cual dice que para desbloquearla debes ingresar el año el cual Independiente ganó su libertadores mientras grondona era presidente de la AFA. Tienes un minuto y medio para ingresar allí, sino te atrapa el guardia</p>
+                Encuentras una nota en el escritorio de Grondona la cual dice que para desbloquearla debes ingresar el año el cual Independiente ganó su libertadores mientras grondona era presidente de la AFA. Apurate, si se te acaba el tiempo te atrapa el guardia.
+            </p>
             <img class="room-image" src="/img/grondona.webp" alt="Julio Grondona" />
-
             <form class="room-form" asp-action="Habitacion" method="post">
                 <input type="hidden" name="sala" value="1" />
                 <input class="room-input" type="text" name="clave" placeholder="Ingrese la clave" />
                 <button class="btn-validate" type="submit">Validar</button>
             </form>
-
             <div class="hints">
                 <button class="btn-hint" onclick="alert('Pista 1: Los números del año sumados dan como resultado 22')">Pista 1</button>
-                <button class="btn-hint" onclick="alert('Pista 2: Grondona asumió en 1979')">Pista 2</button>
+                <button class="btn-hint" onclick="alert('Pista 2: Acontece 2 años antes del primer campeonato del mundo argentino bajo la presidencia de Grondona.')">Pista 2</button>
             </div>
-
             <div>
-                <button class="EstadoJuego" onclick="alert('esta en el nivel ' + @ViewBag.estadoJuego) " > Estado del juego</button>
+                <button class="EstadoJuego" onclick="alert('Esta en el nivel ' + @ViewBag.estadoJuego)">Estado del juego</button>
             </div>
-
             @if(ViewBag.Error != null)
             {
                 <p class="error-message">@ViewBag.Error</p>
             }
         </section>
-
     </div>
-    
 </body>
 </html>

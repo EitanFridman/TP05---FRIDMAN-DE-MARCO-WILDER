@@ -7,13 +7,19 @@
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
-<body class="victoria-page">
+<body>
+    <button class="back-button" onclick="window.location.href='@Url.Action("Index", "Home")'">
+        <img src="/img/flecha.svg" alt="Flecha" />
+    </button>
+
     <div class="container">
         <header>
             <h1 class="victory-title">¡Felicitaciones!</h1>
         </header>
         <section class="victory-content">
-            <p class="victory-message">Has escapado de las oficinas de la AFA y expuesto los escándalos más oscuros.</p>
+            <p class="victory-message">
+                Has escapado de las oficinas de la AFA y expuesto los escándalos más oscuros.
+            </p>
         </section>
     </div>
 </body>

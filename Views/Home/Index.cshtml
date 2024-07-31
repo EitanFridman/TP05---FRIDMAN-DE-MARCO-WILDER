@@ -1,5 +1,7 @@
 ﻿@{
     ViewData["Title"] = "Inicio";
+    var indexUrl = Url.Action("Index", "Home");
+    var comenzarUrl = Url.Action("Comenzar");
 }
 <!DOCTYPE html>
 <html>
@@ -7,18 +9,29 @@
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
     <link rel="icon" type="image/x-icon" href="/img/logoAfa.ico">
+    <script>
+        const indexUrl = '@indexUrl';
+        const comenzarUrl = '@comenzarUrl';
+    </script>
+    <script src="~/js/cronometro.js"></script>
+    <script src="~/js/lluvia.js"></script>
 </head>
 <body class="index-page">
     <div class="container">
         <header>
-            <h1 class="title">Sala de Escape</h1>
+            <h1 class="title">Escándalos en la Asociación del Fútbol Argentino</h1>
             <p class="welcome-message">¡Bienvenido a la Sala de Escape!</p>
         </header>
         <nav class="navigation">
             <a class="nav-link" href="@Url.Action("Tutorial")">Tutorial del juego</a>
-            <a class="nav-link" href="@Url.Action("Comenzar")">Iniciar Juego</a>
+            <a class="nav-link" href="javascript:void(0);" onclick="iniciarJuego(comenzarUrl)">Iniciar Juego</a>
             <a class="nav-link" href="@Url.Action("PersonasDetras")">Personas Detrás</a>
         </nav>
+
+        <!-- Mostrar el cronómetro en el índice -->
+        <div id="cronometro" class="cronometro">
+            <p>Tiempo restante: <span id="timer-display">10:00</span></p>
+        </div>
     </div>
 </body>
 </html>

@@ -1,4 +1,7 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿function mostrarPista() {
+    document.getElementById('popup-pista').style.display = 'block';
+}
 
-// Write your JavaScript code.
+function cerrarPista() {
+    document.getElementById('popup-pista').style.display = 'none';
+}

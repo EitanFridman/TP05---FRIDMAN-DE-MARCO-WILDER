@@ -1,34 +1,66 @@
 @{
-    ViewData["Title"] = "Habitación 3"; 
+    ViewData["Title"] = "Habitación 3";
 }
-
+<!DOCTYPE html>
+<html>
 <head>
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="icon" type="image/x-icon" href="/wwwroot/img/camisetaLogo.ico">
+    <link rel="icon" type="image/x-icon" href="/img/logoAfa.ico">
+    <script src="~/js/cronometro.js"></script>
+    <script src="~/js/site.js"></script>
+    <script>
+        // Define a global variable for the redirect URL
+        var urlMenuPrincipal = '@Url.Action("Index", "Home")';
+    </script>
 </head>
+<body class="habitacion-page">
+    @Html.Partial("_Cronometro")
+    <div class="container">
+        <header>
+            <h1 class="room-title">Los barra brava que nos mudaron a Madrid</h1>
+        </header>
+        <section class="room-content">
+            <p class="room-description">Logras salir y te escondes en otra sala. Ingresas y te encuentras documentos que revelan el rol encubierto de ciertos barra bravas en los incidentes que llevaron a la suspensión de la final en Buenos Aires y su posterior traslado a Madrid. Los documentos también sugieren que hubo sobornos importantes involucrados para evitar sanciones severas a los clubes implicados. </p>
+            <p class="challenge-description">
+                <b>Desafío:</b> Mientras examinas los documentos, empiezas oler olor a quemado y comienzas a sospechar. Escuchas a un grupo de barras aproximándose con bombos y te amenazan. Ves otra puerta con una clave de seguridad que parece ser tu única salida. 
+                
+                <br>
+                
+                En el escritorio, encuentras un sobre con una imagen. En este dice que para desbloquear la puerta debes ingresar la frase oculta relacionada con el famoso gol de River en la final en Madrid. 
+                
+                <br>
 
-<body class="room-3">
+                PONLO EN MINÚSCULAS.
+            </p>
+            <img class="room-image" src="/img/sala3.jpg" alt="Julio Grondona" />
+            <form class="room-form" asp-action="Habitacion" method="post">
+                <input type="hidden" name="sala" value="3" />
+                <input class="room-input" type="text" name="clave" placeholder="Ingrese la clave" />
+                <button class="btn-validate" type="submit">Validar</button>
+            </form>
+            <div class="hints">
+                <div class="hints">
+                <button class="btn-hint" onclick="alert('Pista 1: Lee de izquierda a derecha')">Pista 1</button>
+                <!-- Botón para mostrar la pista -->
+                <button class="btn-hint" onclick="mostrarPista()">Pista 2</button>
 
-    <h1>La Oficina de Grondona</h1> 
-    <p>Encuentras el despacho del fallecido presidente de la AFA, Julio Grondona...</p>
-
-    <img class="room-image" src="/img/sala3.jpg" alt="sala 3" />
-
-    <form asp-action="Habitacion" method="post">
-        <input type="hidden" name="sala" value="3" /> 
-        <input type="text" name="clave" placeholder="Ingrese la clave" />
-        <button type="submit">Validar</button> 
-    </form>
-
-    <button onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>
-    <button onclick="alert('Pista 2: Revisa el cajón...')">Pista 2</button>
-
-    <p class="min">PARA QUE FUNCIONE ESCRIBÍ EN MINUSCULA</p>
-
-    @if(ViewBag.Error != null)
-    {
-        <p style="color:red">@ViewBag.Error</p>
-    }
-    
+                <!-- Popup de pista (inicialmente oculto) -->
+                <div id="popup-pista" class="popup-pista">
+                    <div class="popup-contenido">
+                        <img src="/img/y va el tercero.webp" alt="Pista" />
+                        <button onclick="cerrarPista()">Cerrar</button>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <button class="EstadoJuego" onclick="alert('Esta en el nivel ' + @ViewBag.estadoJuego)">Estado del juego</button>
+            </div>
+            @if(ViewBag.Error != null)
+            {
+                <p class="error-message">@ViewBag.Error</p>
+            }
+        </section>
+    </div>
 </body>
+</html>

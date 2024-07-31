@@ -2,5 +2,24 @@
     ViewData["Title"] = "PersonasDetras";
 }
 
+<button class="back-button" onclick="window.location.href='@Url.Action("Index", "Home")'">
+    <img src="/img/flecha.svg" alt="Flecha" />
+</button>
+
 <h1>Personas Detrás del Proyecto</h1>
-<p>Desarrollado por Agustín De Marco, Eitán Fridman y Matías Wilder.</p>
+
+<!-- Sección de personas -->
+<div class="personas-container">
+    <div class="persona">
+        <img src="/img/agus.png" class="persona-img" />
+        <p class="persona-nombre">Agustín De Marco</p>
+    </div>
+    <div class="persona">
+        <img src="/img/eitu.png" class="persona-img" />
+        <p class="persona-nombre">Eitán Fridman</p>
+    </div>
+    <div class="persona">
+        <img src="/img/wilder.png" class="persona-img" />
+        <p class="persona-nombre">Matías Wilder</p>
+    </div>
+</div>

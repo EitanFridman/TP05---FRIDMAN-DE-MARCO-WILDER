@@ -1,25 +1,63 @@
 @{
     ViewData["Title"] = "Habitación 4";
 }
-
-
+<!DOCTYPE html>
+<html>
 <head>
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="icon" type="image/x-icon" href="/wwwroot/img/camisetaLogo.png">
+    <link rel="icon" type="image/x-icon" href="/img/logoAfa.ico">
+    <script src="~/js/cronometro.js"></script>
+    <script>
+        // Define a global variable for the redirect URL
+        var urlMenuPrincipal = '@Url.Action("Index", "Home")';
+    </script>
 </head>
+<body class="habitacion-page">
+    @Html.Partial("_Cronometro")
+    <div class="container">
+        <header>
+            <h1 class="room-title">Descenso River</h1>
+        </header>
+        <section class="room-content">
+            <p class="room-description">Ingresas a una sala en la AFA donde se activa un video en un smart tv que detalla eventos clave del descenso de River en 2011, incluyendo la pelea entre Grondona y Passarella. El video muestra información sobre decisiones arbitrales y testimonios de jugadores.
+             </p>
+            <p class="challenge-description">
+                <b>Desafío:</b> Al tocar la televisión, se activa un mecanismo que cierra todas las puertas de la sala y comienza una cuenta regresiva de dos minutos. En el video empiezan a aparecer imágenes del partido de vuelta de la promoción 2011 entre River y Belgrano. La única manera de detener la cuenta regresiva y desbloquear las puertas es responder correctamente una pregunta sobre el partido.
 
-<h1>El que no salta </h1> 
-<p>Encuentras el despacho del fallecido presidente de la AFA, Julio Grondona...</p>
-<img src="~/images/grondona.jpg" alt="Julio Grondona" />
-<form asp-action="Habitacion" method="post">
-    <input type="hidden" name="sala" value="4" /> 
-    <input type="text" name="clave" placeholder="Ingrese la clave" />
-    <button type="submit">Validar</button>
-</form>
-<button onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>
-<button onclick="alert('Pista 2: Revisa el cajón...')">Pista 2</button>
-@if(ViewBag.Error != null)
-{
-    <p style="color:red">@ViewBag.Error</p>
-}
+                <br>
+                <br>
+
+                <b>Clave secreta:</b> Ingresa el apellido del jugador que anotó el gol que selló el descenso de River.
+            </p>
+            <img class="room-image" src="/img/farre.webp" alt="Julio Grondona" />
+            <form class="room-form" asp-action="Habitacion" method="post">
+                <input type="hidden" name="sala" value="4" />
+                <input class="room-input" type="text" name="clave" placeholder="Ingrese la clave" />
+                <button class="btn-validate" type="submit">Validar</button>
+            </form>
+            <div class="hints">
+                <div class="hints">
+                <button class="btn-hint" onclick="alert('Pista 1: El jugador que marcó el gol decisivo para Belgrano fue DT del Pirata desde el año 2021 hasta 2024 y su nombre empieza con G.')">Pista 1</button>
+                <!-- Botón para mostrar la pista -->
+                <button class="btn-hint" onclick="mostrarPista()">Pista 2</button>
+
+                <!-- Popup de pista (inicialmente oculto) -->
+                <div id="popup-pista" class="popup-pista">
+                    <div class="popup-contenido">
+                        <iframe id="video-embed" width="600" height="600" src="https://www.youtube.com/embed/0EzHD9Doq14" frameborder="0" allowfullscreen></iframe>
+                        <button onclick="cerrarPista()">Cerrar</button>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <button class="EstadoJuego" onclick="alert('Esta en el nivel ' + @ViewBag.estadoJuego)">Estado del juego</button>
+            </div>
+            @if(ViewBag.Error != null)
+            {
+                <p class="error-message">@ViewBag.Error</p>
+            }
+        </section>
+    </div>
+</body>
+</html>

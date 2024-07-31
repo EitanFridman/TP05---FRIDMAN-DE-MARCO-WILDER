@@ -7,47 +7,42 @@
     <title>@ViewData["Title"] - Sala de Escape</title>
     <link rel="stylesheet" href="~/css/site.css" />
     <link rel="icon" type="image/x-icon" href="/img/logoAfa.ico">
+    <script src="~/js/cronometro.js"></script>
+    <script>
+        // Define a global variable for the redirect URL
+        var urlMenuPrincipal = '@Url.Action("Index", "Home")';
+    </script>
 </head>
 <body class="habitacion-page">
-
+    @Html.Partial("_Cronometro")
     <div class="container">
-    
         <header>
-            <h1 class="room-title">La Oficina de Grondona</h1> 
+            <h1 class="room-title">Sala de votaciones</h1>
         </header>
-
         <section class="room-content">
-            <p class="room-description"> Mientras sigues caminando por la sede de AFA te cruzas con un escenario de conferencias de prensa. Subes, y te encuentras un papel con una adivinanza. </p>
-
-            <img class="room-image" src="/img/sala2.png" alt="Carta" />
-
-            <p class="room-description">
-                <b>Desafío:</b> Aparece una persona misteriosa de la nada, la cuál te deja salir de la habitación si respondes la adivinanza. Te da dos minutos para completarlo. Puedes consultarle pistas si quieres. Debes ingresar (número)(número).
+            <p class="room-description">Mientras sigues caminando por la sede de AFA te cruzas con un escenario de conferencias de prensa. Subes, y te encuentras un papel con una adivinanza. </p>
+            <p class="challenge-description">
+                <b>Desafío:</b> Aparece una persona misteriosa de la nada, la cuál te deja salir de la habitación si respondes la adivinanza. Tienes el tiempo limitado, puedes consultarle pistas si quieres. Debes ingresar númeronúmero, es decir dos numeros juntos.
             </p>
-            
-
+            <img class="room-image" src="/img/sala2.png" alt="Julio Grondona" />
             <form class="room-form" asp-action="Habitacion" method="post">
                 <input type="hidden" name="sala" value="2" />
                 <input class="room-input" type="text" name="clave" placeholder="Ingrese la clave" />
                 <button class="btn-validate" type="submit">Validar</button>
             </form>
-
             <div class="hints">
-                <button class="btn-hint" onclick="alert('Pista 1: El suceso pasó en 2015')">Pista 1</button>
+                <div class="hints">
+                <button class="btn-hint" onclick="alert('Pista 1: El escandalo en la votación pasó en 2015')">Pista 1</button>
                 <button class="btn-hint" onclick="alert('Pista 2: La suma de los votos DEBERÍA ser 75')">Pista 2</button>
             </div>
-
             <div>
-                <button class="EstadoJuego" onclick="alert('esta en el nivel ' + @ViewBag.estadoJuego) " > Estado del juego</button>
+                <button class="EstadoJuego" onclick="alert('Esta en el nivel ' + @ViewBag.estadoJuego)">Estado del juego</button>
             </div>
-
             @if(ViewBag.Error != null)
             {
                 <p class="error-message">@ViewBag.Error</p>
             }
         </section>
-
     </div>
-    
 </body>
 </html>
